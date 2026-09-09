@@ -147,11 +147,3 @@ Possible future upgrades include:
 - Advanced analytics
 - Database-driven charts
 
-## 👩‍💻 Author
-
-Aqsa Sharif
-
-
-## 📄 License
-
-This project is created for educational, portfolio, and internship purposes.
