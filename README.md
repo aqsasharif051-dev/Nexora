@@ -4,9 +4,12 @@ Nexora is a modern and responsive **Project Management Dashboard** built with Re
 
 This project was created as a frontend portfolio and internship project to demonstrate practical React development, responsive UI design, reusable components, routing, filtering, and dashboard layouts.
 
+![Nexora Dashboard](./screenshot.png)
+
 ## 🚀 Features
 
 ### 📊 Dashboard
+
 - Total projects overview
 - Active tasks
 - Team members
